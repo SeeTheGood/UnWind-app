@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "aiswiftassist",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DeveloperZelentsov/AiSwiftAssist.git",
+      "state" : {
+        "revision" : "00c4e9312208a04327c69a826caf0b8b78f60474",
+        "version" : "1.3.1"
+      }
+    }
+  ],
+  "version" : 2
+}
